@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 ###load the data
 
-data = pd.read_csv(r"/Users/maxime/IronHack/Labs/module_2/Project_Week_5/clean.csv")
+data = pd.read_csv(r"/Users/maxime/IronHack/Labs/module_2/Project_Week_5/dashboard_app/streamlitProject/clean.csv.csv")
 
 ### Setting the layout of the page
 st.set_page_config(layout="wide")
